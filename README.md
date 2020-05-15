@@ -12,9 +12,10 @@ Kitodo.Production supports various types of materials such as prints, periodical
 
 For more information, visit the [Kitodo homepage](https://www.kitodo.org). You can also follow Kitodo News on [Twitter](https://twitter.com/kitodo_org).
 
+
 ## Docker instructions
 
-The Docker images were built by [Mannheim University Library](https://en.wikipedia.org/wiki/Mannheim_University_Library).
+The Docker images were built by [Mannheim University Library](https://en.wikipedia.org/wiki/Mannheim_University_Library) and are available at the [Kitodo Docker Hub](https://hub.docker.com/r/kitodo/production/tags).
 
 Simply use docker-compose for setting up and running Kitodo:
 
